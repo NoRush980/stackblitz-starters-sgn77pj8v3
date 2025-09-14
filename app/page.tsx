@@ -72,7 +72,7 @@ export default function Home() {
         </div>
 
         <p style={{ fontSize: 12, color: "#64748b", marginTop: 16 }}>
-          *Proberen = 10 oefenvragen + spring-spel (zonder scores).*
+          *   Proberen = 10 oefenvragen + spring-spel (zonder scores).*
         </p>
       </section>
     </main>
