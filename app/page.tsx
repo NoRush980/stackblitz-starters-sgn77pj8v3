@@ -24,7 +24,7 @@ export default function Home() {
         background: "linear-gradient(180deg,#f4f7ff 0%,#e9f3ff 100%)",
         fontFamily:
           "system-ui,-apple-system,Segoe UI,Roboto,Arial,'Noto Sans',sans-serif",
-      }}
+     }}
     >
       <section style={{ maxWidth: 960, width: "100%", padding: 24, textAlign: "center" }}>
         {/* HERO met overlay */}
